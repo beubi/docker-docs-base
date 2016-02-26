@@ -4,7 +4,7 @@ description = "Home page for Docker's documentation"
 keywords = ["Docker, documentation, manual, guide, reference, api"]
 +++
 
-# Welcome Friends to the Docker Docs!
+# Welcome Friends to the Docker Docs inside QEM!
 
 <style type="text/css">
 .splash {border:0;background:none;}
