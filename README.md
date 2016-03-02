@@ -5,6 +5,7 @@ Docker uses [the Hugo static generator](http://gohugo.io/overview/introduction/)
 Together, the theme and the structure form the `docs-base` image. Each project repository uses this base image to generate localized documentation for review during development. 
 
 
+
 ## How to use it in your repository
 
 To use this this in your own repository, you need to have `make` installed on your system.  Then, do the following:
