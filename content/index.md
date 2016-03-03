@@ -6,6 +6,15 @@ keywords = ["Docker, documentation, manual, guide, reference, api"]
 
 # Welcome Friends to the Docker Docs inside QEM!
 
+#### **What is QEM?**
+
+[QEM.io](http://qem.io) is a functional review platform. It allows developers,
+project managers or even customers to validate a pull-request, by supplying a
+working instance of the project for each opened PR. This pull-request in the
+docker base docs repo, demonstrates how it can work not only for regular web
+applications development, but anything that has an output into a web format,
+such as documentation.
+
 <style type="text/css">
 .splash {border:0;background:none;}
 .splash td{vertical-align:top;background:none;padding:10px 5px;border-style:none;border-width:0px;overflow:hidden;word-break:normal;}
